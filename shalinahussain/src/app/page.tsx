@@ -25,7 +25,7 @@ const Page = () => {
               Sarah Dayan
             </div>
             <div className="text-slate-700 dark:text-slate-500">
-              Staff Engineer, Algolia
+              Staff Engineer, Algolia sara
             </div>
           </figcaption>
         </div>
